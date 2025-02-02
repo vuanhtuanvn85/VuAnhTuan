@@ -23,6 +23,7 @@ function sum_to_n_c(n: number): number {
 }
 
 let n = 15;
-console.log(sum_to_n_a(n));
-console.log(sum_to_n_b(n));
-console.log(sum_to_n_c(n));
+console.log(`n: ${n}`);
+console.log(`sum_to_n_a(n): ${sum_to_n_a(n)}`);
+console.log(`sum_to_n_b(n): ${sum_to_n_b(n)}`);
+console.log(`sum_to_n_c(n): ${sum_to_n_c(n)}`);
