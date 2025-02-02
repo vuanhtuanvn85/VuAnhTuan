@@ -11,4 +11,14 @@ Provide 3 unique implementations of the following function in TypeScript.
 
 - Comment on the complexity or efficiency of each function. 
 
-![Problem 2](/problem4/images/test-fullstack-problem-4.png)
+![Problem 4](/problem4/images/test-fullstack-problem-4.png)
+
+
+**Problem 5: Develop a backend server with ExpressJS**  
+You are required to build a set of CRUD interface that allow a user to interact with the service. You are required to use TypeScript for this task.  
+
+Demo:
+- Using sqlite as the database
+- To run the server, type `npm install` and `npm run start`  
+
+![Problem 5](/problem5/images/test-fullstack-problem-5.gif)
